@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-✨ I am currently pursuing a <strong>B.Tech CSE</strong> at <strong>UPES</strong>.<br>
+✨ I'm currently pursuing a <strong>B.Tech CSE</strong> at <strong>UPES</strong>.<br>
 ✨ I’m actively learning <strong>Docker</strong>, <strong>Artificial Intelligence & Machine Learning</strong>, and <strong>Data Structures & Algorithms</strong>.<br>
 📚 I have a genuine passion for exploring new technologies and ideas.<br>
 🎲 Fun fact: I can finish a sketch while a Docker container is building.
